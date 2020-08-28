@@ -1,0 +1,4 @@
+[2020-08-27 15:53:57.268] [renderer1] [warning] UNRESPONSIVE extension host, 'Zignd.html-css-class-completion' took 99% of 838.991ms, saved PROFILE here: '/tmp/exthost-2b19e9.cpuprofile' [{"id":"program","total":3755,"percentage":0},{"id":"self","total":6650,"percentage":1},{"id":"Zignd.html-css-class-completion","total":828346,"percentage":99}]
+[2020-08-27 16:10:57.235] [renderer1] [error] Failed to created templates directory /root/.config/Code/User/phpGettersSetters: Error: Failed to created templates directory /root/.config/Code/User/phpGettersSetters
+    at /root/.vscode/extensions/phproberto.vscode-php-getters-setters-1.2.3/out/TemplatesManager.js:47:23
+    at FSReqCallback.oncomplete (fs.js:153:23)

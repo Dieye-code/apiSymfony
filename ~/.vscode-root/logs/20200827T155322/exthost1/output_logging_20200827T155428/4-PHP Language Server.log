@@ -1,0 +1,332 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 3:54:30 PM] 1544 files total
+[Info  - 3:54:30 PM] Indexing project for definitions and static references
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getSecrets_VaultService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getFilesystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getRouter_CacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_RouterDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ConfigDumpReferenceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeFixturesService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeSerializerEncoderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getTemplateControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeEntityService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolPruneService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeUnitTestService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_Renderer_FormTypeRendererService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_SystemClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getRouting_LoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CacheClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_YamlLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolDeleteService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeValidatorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeTwigExtensionService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_ErrorListenerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_AppClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeMessageService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_DebugAutowiringService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeDockerDatabaseService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/App_KernelDevDebugContainer.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getRedirectControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeRegistrationFormService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getErrorControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCacheClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeCrudService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeSerializerNormalizerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeMigrationService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeFormService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeFunctionalTestService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeVoterService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_GeneratorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_AboutService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsEncryptFromLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/get_ServiceLocator_C9JCBPCService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/removed-ids.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeCommandService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsRemoveService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_CommandLoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeMessengerMiddlewareService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CacheWarmupService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ConfigDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_SystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeResetPasswordService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsGenerateKeyService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ContainerDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ContainerLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/get_ServiceLocator_Beq5mCoService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_GlobalClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getSession_Storage_NativeService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsSetService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getResponseService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getContainer_EnvVarProcessorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getLoaderInterfaceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_AppService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_FileManagerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_EntityClassGeneratorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getContainer_EnvVarProcessorsLocatorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeSubscriberService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_EventDispatcherDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_RouterMatchService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getServicesResetterService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeUserService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getSessionService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsDecryptToLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_AssetsInstallService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getArgumentResolver_ServiceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeAuthService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/url_generating_routes.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/App_KernelDevDebugContainer.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/url_matching_routes.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/App_KernelDevDebugContainer.preload.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getSecrets_VaultService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getFilesystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getRouter_CacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_RouterDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ConfigDumpReferenceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getTemplateControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolPruneService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_SystemClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getRouting_LoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CacheClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_YamlLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolDeleteService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_ErrorListenerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_AppClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_DebugAutowiringService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/App_KernelDevDebugContainer.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getRedirectControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getErrorControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCacheClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_AboutService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsEncryptFromLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/get_ServiceLocator_C9JCBPCService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/removed-ids.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsRemoveService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_CommandLoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CacheWarmupService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ConfigDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_SystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsGenerateKeyService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ContainerDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ContainerLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/get_ServiceLocator_Beq5mCoService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_GlobalClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getSession_Storage_NativeService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsSetService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getResponseService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getContainer_EnvVarProcessorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getLoaderInterfaceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_AppService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getContainer_EnvVarProcessorsLocatorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_EventDispatcherDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_RouterMatchService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getServicesResetterService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getSessionService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsDecryptToLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_AssetsInstallService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getArgumentResolver_ServiceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/src/Kernel.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/config/bundles.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/public/index.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/autoload.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_real.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_classmap.php
+[Info  - 3:54:31 PM] Ignoring file file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (181555)
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_static.php
+[Info  - 3:54:31 PM] Ignoring file file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (201762)
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_namespaces.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_files.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_psr4.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/ClassLoader.php
+[Info  - 3:54:31 PM] Indexing project for dynamic references
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getSecrets_VaultService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getFilesystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getRouter_CacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_RouterDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ConfigDumpReferenceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeFixturesService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeSerializerEncoderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getTemplateControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeEntityService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolPruneService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeUnitTestService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_Renderer_FormTypeRendererService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_SystemClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getRouting_LoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CacheClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_YamlLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolDeleteService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeValidatorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeTwigExtensionService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_ErrorListenerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_AppClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeMessageService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_DebugAutowiringService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeDockerDatabaseService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/App_KernelDevDebugContainer.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getRedirectControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeRegistrationFormService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getErrorControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCacheClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeCrudService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeSerializerNormalizerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeMigrationService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeFormService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeFunctionalTestService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeVoterService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_GeneratorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_AboutService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsEncryptFromLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/get_ServiceLocator_C9JCBPCService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/removed-ids.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeCommandService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsRemoveService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_CommandLoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeMessengerMiddlewareService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CacheWarmupService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ConfigDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_SystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeResetPasswordService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsGenerateKeyService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ContainerDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_ContainerLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/get_ServiceLocator_Beq5mCoService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_GlobalClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getSession_Storage_NativeService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsSetService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getResponseService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getContainer_EnvVarProcessorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getLoaderInterfaceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getCache_AppService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_FileManagerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_EntityClassGeneratorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getContainer_EnvVarProcessorsLocatorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeSubscriberService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_EventDispatcherDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_RouterMatchService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getServicesResetterService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeUserService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getSessionService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_SecretsDecryptToLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_AssetsInstallService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getArgumentResolver_ServiceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getConsole_Command_CachePoolListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerNvMkrnP/getMaker_AutoCommand_MakeAuthService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/url_generating_routes.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/App_KernelDevDebugContainer.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/url_matching_routes.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/App_KernelDevDebugContainer.preload.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getSecrets_VaultService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getFilesystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getRouter_CacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_RouterDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ConfigDumpReferenceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getTemplateControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolPruneService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_SystemClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getRouting_LoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CacheClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_YamlLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolDeleteService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_ErrorListenerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_AppClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_DebugAutowiringService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/App_KernelDevDebugContainer.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getRedirectControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getErrorControllerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCacheClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_AboutService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsEncryptFromLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/get_ServiceLocator_C9JCBPCService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/removed-ids.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsRemoveService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_CommandLoaderService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CacheWarmupService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ConfigDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_SystemService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsGenerateKeyService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ContainerDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_ContainerLintService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolClearService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/get_ServiceLocator_Beq5mCoService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_GlobalClearerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getSession_Storage_NativeService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsSetService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCacheWarmerService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getResponseService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getContainer_EnvVarProcessorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getLoaderInterfaceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getCache_AppService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getContainer_EnvVarProcessorsLocatorService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_EventDispatcherDebugService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_RouterMatchService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getServicesResetterService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getSessionService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_SecretsDecryptToLocalService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_AssetsInstallService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getArgumentResolver_ServiceService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/var/cache/dev/ContainerSSXtsQv/getConsole_Command_CachePoolListService.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/src/Kernel.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/config/bundles.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/public/index.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/autoload.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_real.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_classmap.php
+[Info  - 3:54:32 PM] Ignoring file file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (181555)
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_static.php
+[Info  - 3:54:32 PM] Ignoring file file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (201762)
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_namespaces.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_files.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/autoload_psr4.php
+Parsing file:///home/simplon/Documents/cours/symfony/testApiM/vendor/composer/ClassLoader.php
+[Info  - 3:54:32 PM] 34 Packages
+[Info  - 3:54:32 PM] Restored symfony/framework-bundle:5.1.3 from cache
+[Info  - 3:54:32 PM] Restored symfony/http-foundation:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/maker-bundle:1.21.0 from cache
+[Info  - 3:54:33 PM] Restored symfony/var-dumper:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/config:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/routing:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/var-exporter:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/dotenv:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/console:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/deprecation-contracts:2.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/event-dispatcher:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/polyfill-intl-normalizer:1.18.1 from cache
+[Info  - 3:54:33 PM] Restored symfony/http-kernel:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/polyfill-mbstring:1.18.1 from cache
+[Info  - 3:54:33 PM] Restored symfony/service-contracts:2.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/error-handler:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/flex:1.9.2 from cache
+[Info  - 3:54:33 PM] Restored symfony/cache-contracts:2.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/string:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/dependency-injection:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/filesystem:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/polyfill-php80:1.18.1 from cache
+[Info  - 3:54:33 PM] Restored symfony/polyfill-intl-grapheme:1.18.1 from cache
+[Info  - 3:54:33 PM] Restored symfony/yaml:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/event-dispatcher-contracts:2.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/polyfill-php73:1.18.1 from cache
+[Info  - 3:54:33 PM] Restored symfony/cache:5.1.3 from cache
+[Info  - 3:54:33 PM] Restored symfony/finder:5.1.3 from cache
+[Info  - 3:54:34 PM] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 3:54:34 PM] Restored psr/log:1.1.3 from cache
+[Info  - 3:54:34 PM] Restored psr/container:1.0.0 from cache
+[Info  - 3:54:34 PM] Restored psr/cache:1.0.1 from cache
+[Info  - 3:54:34 PM] Restored doctrine/inflector:1.4.3 from cache
+[Info  - 3:54:34 PM] Restored nikic/php-parser:4.9.0 from cache
+[Info  - 3:54:34 PM] All 1544 PHP files parsed in 3 seconds. 226 MiB allocated.
